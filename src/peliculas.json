@@ -1,0 +1,28 @@
+[
+    {
+        "img":"img/pelis/218058-4.jpg",
+        "titulo":"El rey león",
+        "descripcion":"Tras la muerte de su padre, Simba vuelve a enfrentar a su malvado tío, Scar, y reclamar el trono de rey."
+        
+    },
+    {
+        "img":"img/pelis/destino-final-5-cartel-poster-usa.jpg",
+        "titulo":"Destino Final 5",
+        "descripcion":"Un grupo de amigos acude a un circuito de carreras. Durante la competencia, Nick tiene una premonición sobre un accidente y saca a sus amigos del recinto para escapar de la tragedia. El accidente acaba ocurriendo y todos celebran el hecho de estar vivos. Sin embargo, el grupo no ha vencido del todo a la muerte, que volverá para llevarse a los supervivientes de la manera más brutal posible."
+    },
+    {
+        "img":"img/pelis/1.jpg",
+        "titulo":"Spider-Man: Sin Camino a Casa",
+        "descripcion":"Tras descubrirse la identidad secreta de Peter Parker como Spider-Man, la vida del joven se vuelve una locura. Peter le pide ayuda al Doctor Strange para recuperar su vida, pero algo sale mal y provoca una fractura en el multiverso."
+    },
+    {
+        "img":"img/pelis/ice-age-4.jpg",
+        "titulo":"La era del hielo",
+        "descripcion":"Un mamut gruñón y sus amigos prehistóricos entran en acción para ayudar a un pequeño perdido a regresar con su padre."
+    },
+    {
+        "img":"img/pelis/It_Cap_tulo_2-844935737-large.jpg",
+        "titulo":"IT",
+        "descripcion":"Varios niños de una pequeña ciudad del estado de Maine se alían para combatir a una entidad diabólica que adopta la forma de un payaso y desde hace mucho tiempo emerge cada 27 años para saciarse de sangre infantil."
+    }
+]
